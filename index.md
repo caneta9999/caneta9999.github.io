@@ -14,7 +14,7 @@
 <br/>Repositório criado para armazenar dashboards feitos com a ferramenta Power Bi Desktop. Também disponibilizo os pdfs para facilitar o processo de visualização.
 
 ---
-[Banco de Dados]
+Banco de Dados
 <br/><img src="images/banco_de_dados.jpg?raw=true"/>
 <br/>Repositórios criados para armazenar projetos e testes realizados com linguagens voltadas para bancos de dados relacionais e não relacionais:
 - [SQL Projetos](https://github.com/caneta9999/UsandoSQL-Projetos)
@@ -24,7 +24,7 @@
 ---
 
 ### Desenvolvimento
-[Python]
+Python
 <br/>Além dos códigos de Machine Learning, também possuo outros projetos desenvolvidos utilizando Python para diversos propósitos:
 - [Projetos diversos](https://github.com/caneta9999/UsandoPython-Projetos)
 - [Python PETL](https://github.com/caneta9999/Python-PETL)

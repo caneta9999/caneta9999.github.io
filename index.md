@@ -41,12 +41,15 @@ Códigos webs desenvolvidos utilizando diferentes ferramentas.
 - [Sistema de Avaliação de Disciplinas](https://github.com/caneta9999/sistema-avaliacaodisciplinas)
 - [Sistema de Gerenciamento de Vendas para Lanchonete](https://github.com/caneta9999/sgv-lanchonete)
 - [Projeto Web](https://github.com/caneta9999/Projeto-Web)
+
 ##### Vue.JS
 - [Vue com Mongoose](https://github.com/caneta9999/Teste-Vue-Mongoose-Express-Axios)
 - [CRUD Vue](https://github.com/caneta9999/CRUD-Vue-JSONServer-Axios)
+
 ##### Python Frameworks
 - [Football Django](https://github.com/caneta9999/Football-Django)
 - [React com Flask](https://github.com/caneta9999/Teste-React-Flask)
+
 ##### Outros
 - [Calculadora Bhaskara React](https://github.com/caneta9999/Calculadora-Bhaskara-React)
 - [CRUD NextJS + Prisma + PostgreSQL](https://github.com/caneta9999/CRUD-NextJS-Prisma-PostgreSQL)

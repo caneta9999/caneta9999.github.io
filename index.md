@@ -31,18 +31,33 @@ Além dos códigos de Machine Learning, também possuo outros projetos desenvolv
 - [PySpark](https://github.com/caneta9999/PySpark)
 - [POO](https://github.com/caneta9999/OOPPython)
 - [Automation](https://github.com/caneta9999/AutomationPython)
-- [PhotoCollage with Anilist API](https://github.com/caneta9999/PhotoCollage_AnimeCharacters)
+- [PhotoCollage com Anilist API](https://github.com/caneta9999/PhotoCollage_AnimeCharacters)
 
 ---
 #### Web
-Possuo códigos webs desenvolvidos utilizando diferentes ferramentas.
+Códigos webs desenvolvidos utilizando diferentes ferramentas.
 ##### HTML/JS/PHP
+- [Jogo da Velha com Javascript](https://github.com/caneta9999/JavaScript-Jogo-da-Velha)
+- [Sistema de Avaliação de Disciplinas](https://github.com/caneta9999/sistema-avaliacaodisciplinas)
+- [Sistema de Gerenciamento de Vendas para Lanchonete](https://github.com/caneta9999/sgv-lanchonete)
+- [Projeto Web](https://github.com/caneta9999/Projeto-Web)
 ##### Vue.JS
-##### React.JS
+- [Vue com Mongoose](https://github.com/caneta9999/Teste-Vue-Mongoose-Express-Axios)
+- [CRUD Vue](https://github.com/caneta9999/CRUD-Vue-JSONServer-Axios)
 ##### Python Frameworks
+- [Football Django](https://github.com/caneta9999/Football-Django)
+- [React com Flask](https://github.com/caneta9999/Teste-React-Flask)
+##### Outros
+- [Calculadora Bhaskara React](https://github.com/caneta9999/Calculadora-Bhaskara-React)
+- [CRUD NextJS + Prisma + PostgreSQL](https://github.com/caneta9999/CRUD-NextJS-Prisma-PostgreSQL)
+- [Sistema de Login com Express e MongoDB](https://github.com/caneta9999/SistemaLogin-Express-MongoDB)
 
-
-
+---
+#### Demais aplicações
+Outras aplicações desenvolvidas para propósitos não listados previamente:
+- [Java POO](https://github.com/caneta9999/Projeto-POO)
+- [Conversor de Medidas Android com Java](https://github.com/caneta9999/Conversor-Medidas-Android)
+- [Rectangle Game C#](https://github.com/caneta9999/Rectangle-Game)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

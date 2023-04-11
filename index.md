@@ -2,11 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
+[Machine Learning]([/sample_page](https://github.com/caneta9999/UsandoMachineLearning-Projetos2))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Repositório criado para armazenar projetos de Machine Learning, como Regressão, Detecção de Objetos, Aprendizagem por Reforço, Classificação, entre outros. Desenvolvidos com ferramentas como Python e R.
+Também possuo um outro repositório com o mesmo propósito, só que um pouco mais antigo e menos estruturado: https://github.com/caneta9999/UsandoMachineLearning-Projetos
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

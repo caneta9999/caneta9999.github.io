@@ -10,7 +10,7 @@
 
 ---
 #### [Power BI](https://github.com/caneta9999/PowerBI-Dashboards)
-<br/><img src="images/dashboard_pizza1.jpg?raw=true" width="400"/> <img src="images/dashboard_pizza2.jpg?raw=true" width="400"/>
+<br/><img src="images/dashboard_pizza1.jpg?raw=true"/> <img src="images/dashboard_pizza2.jpg?raw=true"/>
 <br/>Repositório criado para armazenar dashboards feitos com a ferramenta Power Bi Desktop. Também disponibilizo os pdfs para facilitar o processo de visualização.
 
 ---

@@ -57,7 +57,8 @@ Códigos webs desenvolvidos utilizando diferentes ferramentas.
 
 ---
 #### Demais aplicações
-Outras aplicações desenvolvidas para propósitos não listados previamente:
+<img src="images/rectangle_game.gif?raw=true" width="400"/>
+<br/>Outras aplicações desenvolvidas para propósitos não listados previamente:
 - [Java POO](https://github.com/caneta9999/Projeto-POO)
 - [Conversor de Medidas Android com Java](https://github.com/caneta9999/Conversor-Medidas-Android)
 - [Rectangle Game C#](https://github.com/caneta9999/Rectangle-Game)

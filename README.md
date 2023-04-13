@@ -51,9 +51,9 @@ ___
 <br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
 
 ### Thanks for the images:
-https://pixabay.com/pt/photos/rob%C3%B4-el%C3%A9trico-m%C3%A3o-pl%C3%A1stico-oi-5181307/
-https://pixabay.com/pt/photos/servidor-tecnologia-rede-dados-2891812/
-https://pixabay.com/pt/photos/caneta-caligrafia-escrita-carta-3481061/
+- https://pixabay.com/pt/photos/rob%C3%B4-el%C3%A9trico-m%C3%A3o-pl%C3%A1stico-oi-5181307/
+- https://pixabay.com/pt/photos/servidor-tecnologia-rede-dados-2891812/
+- https://pixabay.com/pt/photos/caneta-caligrafia-escrita-carta-3481061/
 
 ### Thanks for the tutorial: 
 https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd

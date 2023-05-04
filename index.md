@@ -23,13 +23,18 @@
 - [MongoDB](https://github.com/caneta9999/MongoDB)
 
 ---
+### + Projetos
+![](./images/charts.gif) <br/>
+<br/> Outros projetos relacionados, desenvolvidos com Python e R.
+- [R Charts](https://github.com/caneta9999/R-Charts)
+- [Python PETL](https://github.com/caneta9999/Python-PETL)
+- [PySpark](https://github.com/caneta9999/PySpark)
 
+---
 ## Desenvolvimento
 ### Python
 Além dos códigos de Machine Learning, também possuo outros projetos desenvolvidos utilizando Python para diversos propósitos, como uso de diferentes bibliotecas e funcionalidades:
 - [Coletânea de Projetos](https://github.com/caneta9999/UsandoPython-Projetos)
-- [Python PETL](https://github.com/caneta9999/Python-PETL)
-- [PySpark](https://github.com/caneta9999/PySpark)
 - [POO](https://github.com/caneta9999/OOPPython)
 - [Automation](https://github.com/caneta9999/AutomationPython)
 - [PhotoCollage com Anilist API](https://github.com/caneta9999/PhotoCollage_AnimeCharacters)
@@ -57,7 +62,7 @@ Códigos webs desenvolvidos utilizando diferentes ferramentas.
 - [Sistema de Login com Express e MongoDB](https://github.com/caneta9999/SistemaLogin-Express-MongoDB)
 
 ---
-#### Demais aplicações
+#### + Projetos
 <img src="images/rectangle_game.gif?raw=true" width="400"/>
 <br/>Outras aplicações desenvolvidas para propósitos não listados previamente:
 - [Java POO](https://github.com/caneta9999/Projeto-POO)

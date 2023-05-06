@@ -1,7 +1,7 @@
 # Portfolio
+<sub>Créditos pela logo: [Deborah Hudson](https://pixabay.com/pt/photos/caneta-caligrafia-escrita-carta-3481061/)</sub><br/>
 
 ---
-
 ## Data Science
 ### [Machine Learning 2](https://github.com/caneta9999/UsandoMachineLearning-Projetos2)
 ![Machine Learning](./images/machine_learning.jpg)<br/>

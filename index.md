@@ -4,7 +4,8 @@
 
 ## Data Science
 ### [Machine Learning 2](https://github.com/caneta9999/UsandoMachineLearning-Projetos2)
-<br/><img src="images/machine_learning.jpg?raw=true"/>
+![Machine Learning](./images/machine_learning.jpg)<br/>
+<sub>Créditos: [Michal Beitz](https://pixabay.com/pt/photos/rob%C3%B4-el%C3%A9trico-m%C3%A3o-pl%C3%A1stico-oi-5181307/)</sub><br/>
 <br/>Repositório criado para armazenar projetos de Machine Learning, como Regressão, Detecção de Objetos, Aprendizagem por Reforço, entre outros. Desenvolvidos com ferramentas como Python e R.
 <br/>Também possuo um outro repositório com o mesmo propósito, só que um pouco mais antigo e menos estruturado: [Machine Learning](https://github.com/caneta9999/UsandoMachineLearning-Projetos)
 
@@ -16,7 +17,8 @@
 
 ---
 ### Banco de Dados
-<br/><img src="images/banco_de_dados.jpg?raw=true"/>
+![Banco de Dados](./images/banco_de_dados.jpg)<br/>
+<sub>Créditos: [QuinceCreative](https://pixabay.com/pt/photos/servidor-tecnologia-rede-dados-2891812/)</sub><br/>
 <br/>Repositórios criados para armazenar projetos e testes realizados com linguagens voltadas para bancos de dados relacionais e não relacionais:
 - [SQL Projetos](https://github.com/caneta9999/UsandoSQL-Projetos)
 - [PL/SQL](https://github.com/caneta9999/PLSQL-Tests)
@@ -38,11 +40,13 @@ Além dos códigos de Machine Learning, também possuo outros projetos desenvolv
 - [POO](https://github.com/caneta9999/OOPPython)
 - [Automation](https://github.com/caneta9999/AutomationPython)
 - [PhotoCollage com Anilist API](https://github.com/caneta9999/PhotoCollage_AnimeCharacters)
+- [PurikuraGPT](https://github.com/caneta9999/PurikuraGPT)
 
 ---
 ### Web
 Códigos webs desenvolvidos utilizando diferentes ferramentas.
-#### HTML/JS/PHP
+#### HTML/CSS/JS/PHP
+- [Page Style Configuration]https://github.com/caneta9999/Page-Style-Configuration
 - [Jogo da Velha com Javascript](https://github.com/caneta9999/JavaScript-Jogo-da-Velha)
 - [Sistema de Avaliação de Disciplinas](https://github.com/caneta9999/sistema-avaliacaodisciplinas)
 - [Sistema de Gerenciamento de Vendas para Lanchonete](https://github.com/caneta9999/sgv-lanchonete)

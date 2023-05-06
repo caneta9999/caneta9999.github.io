@@ -46,7 +46,7 @@ Além dos códigos de Machine Learning, também possuo outros projetos desenvolv
 ### Web
 Códigos webs desenvolvidos utilizando diferentes ferramentas.
 #### HTML/CSS/JS/PHP
-- [Page Style Configuration]https://github.com/caneta9999/Page-Style-Configuration
+- [Page Style Configuration](https://github.com/caneta9999/Page-Style-Configuration)
 - [Jogo da Velha com Javascript](https://github.com/caneta9999/JavaScript-Jogo-da-Velha)
 - [Sistema de Avaliação de Disciplinas](https://github.com/caneta9999/sistema-avaliacaodisciplinas)
 - [Sistema de Gerenciamento de Vendas para Lanchonete](https://github.com/caneta9999/sgv-lanchonete)

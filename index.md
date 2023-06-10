@@ -42,6 +42,7 @@ Além dos códigos de Machine Learning, também possuo outros projetos desenvolv
 - [Automation](https://github.com/caneta9999/AutomationPython)
 - [PhotoCollage com Anilist API](https://github.com/caneta9999/PhotoCollage_AnimeCharacters)
 - [PurikuraGPT](https://github.com/caneta9999/PurikuraGPT)
+- [Email Daily Quote](https://github.com/caneta9999/Email-Daily-Quote)
 
 ---
 ### Web

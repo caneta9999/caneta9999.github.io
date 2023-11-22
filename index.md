@@ -11,10 +11,9 @@
 
 ---
 ### [Power BI](https://drive.google.com/drive/u/0/folders/1o1pWwGThcNKxJIpAcpyJP4Ejw6yietJW)
-<br/><img src="images/dashboard_pizza1.jpg?raw=true"/> <img src="images/dashboard_pizza2.jpg?raw=true"/><br/>
-<sub>Créditos pela imagem de fundo: [petrovhey](https://pixabay.com/pt/photos/pizza-comida-it%c3%a1lia-3000274/)</sub><br/>
+<br/><img src="images/dashboard3.jpg?raw=true"/> <img src="images/dashboard4.jpg?raw=true"/><br/>
 <br/>Dashboards feitos com a ferramenta Power Bi Desktop, disponibilizados em formatos de PDF para facilitar a visualização.
-<br/>Os arquivos podem ser encontrados no repositório: [PowerBI-Dashboards](https://github.com/caneta9999/PowerBI-Dashboards)
+<br/>Os datasets utilizados para os dashboards podem ser encontrados em: [PowerBI-Dashboards](https://github.com/caneta9999/PowerBI-Dashboards)
 
 ---
 ### Banco de Dados

@@ -11,7 +11,7 @@
 
 ---
 ### [Power BI](https://drive.google.com/drive/u/0/folders/1o1pWwGThcNKxJIpAcpyJP4Ejw6yietJW)
-<br/><img src="images/dashboard3.jpg?raw=true"/> <img src="images/dashboard4.jpg?raw=true"/><br/>
+<br/><img src="images/dashboard3.png?raw=true"/> <img src="images/dashboard4.png?raw=true"/><br/>
 <br/>Dashboards feitos com a ferramenta Power Bi Desktop, disponibilizados em formatos de PDF para facilitar a visualização.
 <br/>Os datasets utilizados para os dashboards podem ser encontrados em: [PowerBI-Dashboards](https://github.com/caneta9999/PowerBI-Dashboards)
 

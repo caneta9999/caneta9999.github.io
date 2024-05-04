@@ -33,10 +33,12 @@
 ---
 ### + Projetos
 ![](./images/charts.gif) <br/>
+![](./images/boxplot.png) <br/>
 <br/> Outros projetos relacionados, desenvolvidos com Python e R.
 - [R Charts](https://github.com/caneta9999/R-Charts)
 - [Python PETL](https://github.com/caneta9999/Python-PETL)
 - [PySpark](https://github.com/caneta9999/PySpark)
+- [Statistics Python](https://github.com/caneta9999/Statistics-Python)
 
 ---
 ## Desenvolvimento

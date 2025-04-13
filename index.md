@@ -52,6 +52,14 @@ Além dos códigos de Machine Learning, também possuo outros projetos desenvolv
 - [Email Daily Quote](https://github.com/caneta9999/Email-Daily-Quote)
 
 ---
+### ServiceNow
+Estudos realizados utilizando a instância de desenvolvedor do ServiceNow: [DevTraining-Needit](https://github.com/caneta9999/devtraining-needit-utah) <br/><br/>
+Módulos estudados até o momento:
+- Automating Application Logic
+- Flow Designer
+- Reporting and Analytics
+
+---
 ### Web
 Códigos webs desenvolvidos utilizando diferentes ferramentas.
 #### HTML/CSS/JS/PHP
